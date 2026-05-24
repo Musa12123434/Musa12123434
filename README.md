@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **musabudaqov6@gmail.com**
 
-- ⚡ Fun fact **I like learning languages.Currently i know english,russian, and my native azerbaijani language.**
+- ⚡ Fun fact **I like learning languages.Currently i know english,russian,turkish and azerbaijani(native).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
