@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Musa</h1>
 <h3 align="center">Frontend developer from Azerbaijan</h3>
 
-- 🔭 I’m currently working on **furniture website**
-
 - 💬 Ask me about **html,css,js,sass**
 
 - 📫 How to reach me **musabudaqov6@gmail.com**
